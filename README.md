@@ -1,4 +1,4 @@
-# Python Ödev: Veri Tipleri & Operatörler
+# Python: Veri Tipleri & Operatörler
 
 Bu repoda, **Python veri tipleri** ve **operatörler** konusunu örnekler ve mini alıştırmalarla sunduğum Jupyter defteri yer alır:  
 `python_odev_veri_tipleri_ve_operatorler.ipynb`
